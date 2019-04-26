@@ -1,0 +1,31 @@
+{
+  "name": "export-svg-with-styles",
+  "version": "0.0.3",
+  "description": "Export your d3 charts or svg images WITH their styling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mathewleland/export-svg-with-styles.git"
+  },
+  "keywords": [
+    "svg",
+    "download",
+    "css",
+    "styles",
+    "styling",
+    "png",
+    "images"
+  ],
+  "author": "Mathew Leland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathewleland/export-svg-with-styles.git/issues"
+  },
+  "homepage": "https://github.com/mathewleland/export-svg-with-styles#readme",
+  "dependencies": {
+    "file-saver": "^2.0.1"
+  }
+}
