@@ -6,7 +6,7 @@ Turn your d3 charts (or whatever svg you want!) into exportable png images WITH 
 
 `npm install --save export-svg-with-styles`
 
-`import {downloadSVG} from "export-svg-with-styles"`
+`import downloadSVG from "export-svg-with-styles"`
 
 The `downloadSVG` function takes an options object that has optional values. You could potentially call it without arguments `downloadSVG()` and it will download the first SVG it finds in the DOM tree.
 
