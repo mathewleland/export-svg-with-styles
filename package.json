@@ -1,7 +1,7 @@
 {
   "name": "export-svg-with-styles",
   "version": "0.0.4",
-  "description": "Export your d3 charts or svg images WITH their styling",
+  "description": "Export your d3 charts or svg images WITH their styling 🌈",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
